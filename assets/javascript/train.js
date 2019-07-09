@@ -1,6 +1,6 @@
 //firebase initialization
 var config = {
-    apiKey: "AIzaSyC4d8tUlOfpW2ElJySU4UmuyCIl84PA3rI",
+    apiKey: "AIzaSyCz7qH4L1ljUS8J13EX-mv--CZu7VQwqWU",
     authDomain: "train-scheduler-database-9acd6.firebaseapp.com",
     databaseURL: "https://train-scheduler-database-9acd6.firebaseio.com",
     storageBucket: "train-scheduler-database-9acd6.appspot.com",
